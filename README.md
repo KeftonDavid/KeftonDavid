@@ -6,7 +6,7 @@
   
 <p align="center">
   
-  <h4 align="center">Tenho como foco principal as tecnologias web,<br/>tendo estudado principalmente o framework <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="80" alt="Angular"/> lib.</h4>
+  <h4 align="center">Tenho como foco principal as tecnologias web,<br/>tendo estudado principalmente o framework <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="60" alt="Angular"/> lib.</h4>
   <h5 align="center">Constant learner, always trying to improve!<br/><br/></h5>
   
 </p>
