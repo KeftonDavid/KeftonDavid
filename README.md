@@ -5,12 +5,8 @@
 
   
 <p align="center">
-
-  <a href=https://www.linkedin.com/in/erivanbrunno>
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
-  </a>
   
-  <h4 align="center">Currently working on hybrid mobile tecnologies,<br/>such as projects using <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" alt="React Native"/> lib.</h4>
+  <h4 align="center">Tenho como foco principal as tecnologias web,<br/>tendo estudado principalmente o framework<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100" alt="Angular"/> lib.</h4>
   <h5 align="center">Constant learner, always trying to improve!<br/><br/></h5>
   
 </p>
@@ -21,6 +17,6 @@
 <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=red" alt="HTML5"/><img src="https://img.shields.io/badge/CSS3-000?&style=for-the-badge&logo=css3&logoColor=purple" alt="CSS3"/><img src="https://img.shields.io/badge/JavaScript-000?&style=for-the-badge&logo=JavaScript&logoColor=yellow" alt="HTML5"/><img src="https://img.shields.io/badge/TypeScript-000?&style=for-the-badge&logo=TypeScript&logoColor=blue" alt="TypeScript"/>
 </p>
 
-  <h5 align="center">📫 email: erivanstdio@gmail.com<h5>
+  <h5 align="center">📫 email: keftondavid@gmail.com<h5>
 </p>
 </h2>
