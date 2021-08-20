@@ -1,5 +1,5 @@
 
-<h2><img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="300" height="300" title="code" align="right">
+<h2><img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="300" height="280" title="code" align="right">
 <h2 align = "center">Olá. Me chamo Kefton!</h2>
 
 
